@@ -16,7 +16,6 @@
 |:---:|
 |![image](https://github.com/95hyun/spring-hanghae99-auth/assets/151743721/124ff588-62dc-4970-99e9-d6cfa30d6db7)|
 |Entity Relationship Diagram(현민영)|
-|:---:|
 |![image](https://github.com/95hyun/spring-hanghae99-auth/assets/151743721/562faec3-8ee9-4966-b1d6-de985b6cdc2d)|
 ##
 #### ReadMe 양식 참고 [지수님 GitHub](https://github.com/jisulee-shsf/spring-hanghae99-assignment-level2)
